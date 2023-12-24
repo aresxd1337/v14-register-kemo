@@ -24,3 +24,4 @@
 <img  src="https://cdn.discordapp.com/attachments/1188494817706135581/1188568983172038758/image.png?ex=659b0020&is=65888b20&hm=ecea8cd8408d426f3a5a64993c66825f9fdb0253837205f480a13db18b04c842&">
 <img  src="https://cdn.discordapp.com/attachments/1188494817706135581/1188569111442227281/image.png?ex=659b003e&is=65888b3e&hm=c4d2e7ce26d973ef4fc2468a845541d2767eb6ac9a699702e2d8008a80f7a015&">
 <img  src="https://cdn.discordapp.com/attachments/1188494817706135581/1188569144740827286/image.png?ex=659b0046&is=65888b46&hm=60292046a3f53c0b2f0c8eaf328259488c54f60543c6584cb264ae2ad7eabfde&">
+<img  src="https://streamable.com/8i2v4s">
