@@ -1,0 +1,52 @@
+{
+    "bot": { 
+        "token": "MTE4NzEzMzc5NTQ3Njk3MTU3Mn20r32KmQqL6Ym_9HiFc",
+        "prefix":".",
+        "footer": "Kemo was Here ❤️",
+        "botdurum": "Kemo ❤️ Developmend",
+        "BotDeveloper": "921504197675991131",
+        "sunucuid": "1188494816787562506"
+    },
+
+    "staffroles": {
+        "OwnerRoles": "1188494817139884075",
+        "botcommanRole": "1188494817014054981",
+        "KayitYetkiliRole": "1188494817014054981"
+
+
+    },
+
+    "roles": {
+        "tasarımcıRole": "",
+        "streamerRole": "",
+        "müzisyenRole": "",
+        "vipRole": "1188494816900829196"
+
+
+    },
+
+    
+    "register": {
+        "kayitsiz": "1188494816976318586", 
+        "ekrekRolü":"1188494817014054975",
+        "KadinRolü":"1188494817014054978",
+        "JoinName": "isim | yaş",
+        "ŞüpheliName": "Şüpheli hesap",
+        "symbol": "|",
+        "tagsymbol": "",
+        "EtiketTag": "1947",
+        "isimTag": ["Shady","shady","$"],
+        "şüpheliRolü": "1188494816900829202",
+        "TaglıRolü": "1188494817014054979",
+        "minimumyaş": 14,
+        "TaglıAlım": false 
+    },
+    
+        "kanallar": {
+            "KayitKanali": "1188494817706135574",
+            "SohbetKanali": "1188494817928425531",
+            "rules": "1188494817706135581"
+    }
+    
+    
+    }
