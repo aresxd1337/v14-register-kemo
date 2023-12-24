@@ -1,4 +1,4 @@
-![image](https://github.com/kemo1337/v14-register-kemo/assets/153391458/0e11ae92-4c3b-46b6-8907-dece6b0b52ef)# KURULUM?
+# KURULUM?
 - `npm i`
 - `config/config.jsom` girin daha sonra doldurun hepsini
 
